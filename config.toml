@@ -1,0 +1,4 @@
+[backend]
+backend_base_url = "http://localhost:5000"
+translator_endpoint = "/translator"
+database_endpoint = "/database"
